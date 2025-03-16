@@ -1,2 +1,0 @@
-# ProxyShield
-VPN app
